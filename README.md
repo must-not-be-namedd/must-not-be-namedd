@@ -3,7 +3,7 @@
 
 # Khushi Nataraj
 
-### Hey there! 👋
+### About Me:
 
 I spend my time building things, exploring how systems work, and experimenting with ideas that occasionally turn into actual projects :))
 
